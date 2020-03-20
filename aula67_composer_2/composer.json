@@ -1,0 +1,13 @@
+{
+    "name": "composer/php",
+    "description": "Material para php",
+    "authors": [
+        {
+            "name": "Fernando Sales",
+            "email": "fsales316@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
+}

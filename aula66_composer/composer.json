@@ -1,0 +1,13 @@
+{
+    "name": "curso/php",
+    "description": "Material para o curso de php",
+    "authors": [
+        {
+            "name": "Fernando Sales",
+            "email": "fsales316@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
